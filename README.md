@@ -1,10 +1,10 @@
 ### Hello! 👋
 
-My name is Guilherme Eiras. I've born and live in Brazil (🇧🇷) and currently I'm a software engineer at [Revelo](https://www.revelo.com.br/).
+My name is Guilherme Eiras. I've born and live in Brazil 🇧🇷 and currently I'm a software engineer at [Revelo](https://www.revelo.com.br/).
 
-I love to start small projects and discuss about developer carreer (👨‍💻). Currently, I'm focusing on my Ruby and Javascript skills but I always try to learn a new framework or pattern.
+I love to start small projects and discuss about developer carreer 👨‍💻. Currently, I'm focusing on my Ruby and Javascript skills but I always try to learn a new framework or pattern.
  
-In my free time, when I'm not coding, I like to play soccer (⚽️), to play games (♟), to listen to music (🎵), and to watch videos on Youtube (▶️).
+In my free time, when I'm not coding, I like to play soccer ⚽️, to play games ♟, to listen to music 🎵, and to watch videos on Youtube ▶️.
 
 You can find me here:
 
