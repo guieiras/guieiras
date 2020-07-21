@@ -8,5 +8,5 @@ In my free time, when I'm not coding, I like to play soccer ⚽️, to play game
 
 You can find me here:
 
-<!--[![Blog Badge](https://img.shields.io/badge/Blog-guieiras.dev-black)](https://me.guieiras.dev)-->
+[![Blog Badge](https://img.shields.io/badge/Blog-guieiras.dev-black)](https://me.guieiras.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-eiras/)](https://www.linkedin.com/in/guilherme-eiras)
