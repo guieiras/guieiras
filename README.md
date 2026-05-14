@@ -1,10 +1,10 @@
 ### Hello! 👋
 
-My name is Guilherme Eiras. I've born and live in Brazil 🇧🇷 and currently I'm a software engineer at [SUBSCRIBE](https://subscribeplatform.com).
+My name is Guilherme. I've born and live in Brazil 🇧🇷 and currently I'm a software engineer at [SUBSCRIBE](https://subscribeplatform.com).
 
-I love to start small projects and discuss about the Software engineer carreer 👨‍💻. Currently, I'm focusing on learning about Agents and how to use AI to build software with quality, security and reliability.
+I love to start small projects and discuss about the Software engineer carreer 👨‍💻. Currently, I'm focusing on learning about agents and how to use AI to build software with quality, security and reliability.
 
-In my free time, when I'm not developing stuff, I like to play soccer and to relax with games, music or watching videos on Youtube ▶️.
+In my free time, when I'm not developing stuff, I like to play soccer and to relax with games, music or watching videos on Youtube.
 
 You can find me here:
 
