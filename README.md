@@ -2,9 +2,9 @@
 
 My name is Guilherme Eiras. I've born and live in Brazil 🇧🇷 and currently I'm a software engineer at [SUBSCRIBE](https://subscribeplatform.com).
 
-I love to start small projects and discuss about the Software engineer carreer 👨‍💻. Currently, I'm focusing on my Ruby and Javascript skills but I always try to learn a new framework or pattern.
- 
-In my free time, when I'm not coding, I like to play soccer ⚽️, to play games ♟, to listen to music 🎵, and to watch videos on Youtube ▶️.
+I love to start small projects and discuss about the Software engineer carreer 👨‍💻. Currently, I'm focusing on learning about Agents and how to use AI to build software with quality, security and reliability.
+
+In my free time, when I'm not developing stuff, I like to play soccer and to relax with games, music or watching videos on Youtube ▶️.
 
 You can find me here:
 
